@@ -66,7 +66,7 @@
 - Setup nginx for the VM,
 - Setup a systemd process for our backend service on the VM.
 
-**Environment**** :** Go-lang, HTML5, CSS3, Restful, GCP, ReactJs, SQL, JavaScript, My SQL, Git, Maven, Gin,DOM, SCRUM, XHTML, Restful Web services, Oauth2.0, Flutter
+**Environment** : Go-lang, HTML5, CSS3, Restful, GCP, ReactJs, SQL, JavaScript, My SQL, Git, Maven, Gin,DOM, SCRUM, XHTML, Restful Web services, Oauth2.0, Flutter
 
 **Full Stack Developer**
 **BigMints, Dubai, UAE Oct'2020**  **–**  **April****'2021**
