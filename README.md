@@ -3,7 +3,7 @@
 #### Full Stack Developer
 
 ##### _mail:_ [yadunandanworks@gmail.com](mailto:yadunandanworks@gmail.com)
-##### _phone:_ +91-9964687717
+##### _phone:_ +91-99******17
 ##### _web:_ [yadunandan.xyz](https://yadunandan.xyz)
 
 ### Professional Summary
