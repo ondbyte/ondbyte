@@ -2,11 +2,11 @@
 # Yadunandan KS
 Back-end Engineer
 
-✉️ [yadunandanworks@gmail.com](mailto:yadunandanworks@gmail.com)
+Email: [yadunandanworks@gmail.com](mailto:yadunandanworks@gmail.com)
 
-☎️ [+91-99*******17]()
+Phone [+91-99*******17]()
 
-🔗 [yadunandan.xyz](https://www.yadunandan.xyz/)  
+Website: [yadunandan.xyz](https://www.yadunandan.xyz/)  
 
 GitHub: [github.com/ondbyte](https://github.com/ondbyte)  
 
