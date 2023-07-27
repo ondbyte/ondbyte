@@ -22,24 +22,25 @@ Have good experience in creating and running docker images from the the develope
 
 ## Technical Skills
 
--   **Operating Systems**: Windows XP/Vista/7/8/10, Ubuntu, Linux, Mac OS X
--   **Web Technologies**: HTML/HTML5, CSS, XML, JavaScript, JSON,, DOM, Firebase
--   **Programming Languages**: Go, Dart,SQL, JavaScript, TypeScript
--   **Frameworks**:  Flutter, Gin, http, fiber, gqlgen, gorrillamux, sacket, nats-server, nats-go, mockito, gomega, ginkgo, Gorilla mux, ExpressJs
--   **IDE/Editors**: Eclipse IDE, Notepad++, Microsoft Visual Studio
--   **Database**: Postgres, MySQL Server, MongoDB, Firestore, Redis
+-   **Programming Languages**: Go, Dart, TypeScript,Java
+-   **Go-framework**:  Gin, http, fiber,gorm, gqlgen, gorrillamux, socket, nats-server, nats-go, mockery, gomega, ginkgo, Gorilla mux, prometheus and new relic web app intrumentations, Docker, Docker-compose, Kubernetes etc
+-   **Database**: Postgres, MySQL Server, MongoDB, Firestore, Redis as a cache
+-   **Version Control**: Git,GitHub, bitbucket
+-   **Other-frameworks** Flutter, expressjs etc
+-   **Web Technologies**: HTML/HTML5, CSS, XML, JavaScript, JSON,, DOM
+-   **IDE/Editors**: Microsoft Visual Studio
 -   **Debugging Tools**: Chrome Developer Tools, Flutter Dev tools, gopls
 -   **Testing Tools**: Junit, TestNG, Mockito, Gomega, Ginkgo
--   **Version Control**: Git,GitHub, bitbucket
--   **Web Servers**: HTTP Web Server, NGINX
--   **Desktop Tools**: Acrobat Writer, MS Office, Photoshop
+-   **Web Servers**: NGINX
 -   **SDLC**: Agile, Scrum
--   **Project Management Tools**: JIRA, Slack
+-   **Project Management Tools**: JIRA, Confluence
 -   **Browsers**: Firefox, Chrome, IE, Opera, Safari
+-   **Operating Systems**: Windows XP/Vista/7/8/10, Ubuntu, Linux, Mac OS X, WSL on windows
 
 ## Work Experience
 
 ### Software Engineer 1 at Impelsys India Limited (Nov'2022 - Present)
+- instrumentation of go web apps using prometheus, new relic and connecting to grafana
 - building microservices for https://adh.heart.org
 - Working on data streaming with the nats.io hub/sub model.
 - Developed a REST wrapper around the nats server using Go, Gin, GORM, and MySQL.
@@ -85,7 +86,7 @@ University Of Mysore (UoM) - Mysore
 
 ## Projects
 
-- heart.org datahub
+- adh.heart.org
 - https://github.com/ondbyte/turbo_flag (a open source software which is a fork of the core flag library included in the go-lang)
 -   [Simple MQ Broker and Client](https://github.com/ondbyte/simp_mq): A simple, open-source MQ broker and client written in Go.
 -   [APP - Learn from maps](https://play.google.com/store/apps/details?id=com.learnfrommaps.android): Geo edu-tech services app for learning from maps.
@@ -97,4 +98,3 @@ University Of Mysore (UoM) - Mysore
 -   [Flutter package - simple_strapi](https://github.com/ondbyte/simple_strapi): SDK for Strapi in Flutter.
 -   [Flutter package - super_strapi](https://github.com/ondbyte/super_strapi): Class generation for Strapi models in Flutter.
 
-Please note that this is a general format, and you can modify it further based on your preferences and requirements.
